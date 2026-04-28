@@ -5,14 +5,19 @@
 }
 
 body{
-    background-color: darkblue;
+    background-color: rgb(21, 21, 20);
 }
 
 h1, h2, h3, h4, h5, h6{
-    color: #000;
+    color: #faf7f7;
 }
 
 p, label{
     border: none;
     border-bottom: #2b0cd8;
+}
+
+input{
+    border: none;
+    border-bottom: 1px solid purple;
 }

@@ -5,16 +5,16 @@
 }
 
 body{
-    background-color: rgb(21, 21, 20);
+    background-color: rgb(234, 234, 147);
 }
 
 h1, h2, h3, h4, h5, h6{
-    color: #faf7f7;
+    color: #0b0909;
 }
 
 p, label{
     border: none;
-    border-bottom: #2b0cd8;
+    border-bottom: #030303;
 }
 
 input{
